@@ -1,0 +1,33 @@
+body{
+	background-size: cover;
+}
+
+p{
+	 position: absolute;
+	color: white;
+}
+
+.content{
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.container{
+	 position: absolute;
+	 display: flex;
+	 width: 50%;
+	 height: 50%;
+	 align-items: center;
+	 justify-content: center;
+}
+
+/*.ki{
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  /*margin-top: auto;*/
+  /*margin-right: auto;*/
+  width: 50%;*/
+/*}*/
+
